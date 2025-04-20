@@ -1,1 +1,1 @@
-# Intermediate-HTML-CSS-and-JavaScript
+This repository contains a series of beginner-to-intermediate level web development tasks focusing on HTML, CSS, and JavaScript. Over 9 days, the goal is to build dynamic, responsive websites and improve JavaScript skills—particularly with form validation and DOM manipulation.
